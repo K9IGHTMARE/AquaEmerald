@@ -124,3 +124,4 @@ del /Q /F C:\Program Files\apvxdwin\*.exe
 del /Q /F C:\Program Files\webproxy\*.exe
 del /Q /F C:\Program Files\panda software\*.*
 rem —
+
